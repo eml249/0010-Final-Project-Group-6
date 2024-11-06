@@ -5,9 +5,9 @@ Team name: TBD
 
 Group members:
 - Dominick DeLuca [dad340@pitt.edu]
-- Erik Lehmann []
+- Erik Lehmann [eml249@pitt.edu]
 - Shruti Mali []
-- Jiri Palayekar []
+- Jiri Palayekar [Mjp186@pitt.edu]
 
 Datasets:
 TBD
