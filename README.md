@@ -13,7 +13,7 @@
 - Public assistance per neighborhood [Dominick]: https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974/resource/fa050f6f-66d9-40db-a415-abad22c51125
 - Community facilities [Erik]: https://data.wprdc.org/dataset/city-of-pittsburgh-facilities
 - Arrests (crime rate) [Shruti]: https://data.wprdc.org/dataset/arrest-data
-- Building permits [Jiri]: https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974/resource/fab1fade-dec7-40eb-b4bf-737c0b3cecb2
+- Food Gardens [Jiri]: Hey guys! https://data.wprdc.org/dataset/grow-pittsburgh-food-gardens that looks at the amount of food gardens in Pittsburgh and might be a better metric than housing permits!
 
 ## Overview:
 - This project bases affordability, community engagement, safety/crime rate, and things to do in the neighborhood to consider Bloomfield as the best neighborhood in Pittsburgh.
