@@ -12,7 +12,7 @@
 ## Datasets:
 - Public assistance per neighborhood [Dominick]: https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974/resource/fa050f6f-66d9-40db-a415-abad22c51125
 - Community facilities [Erik]: https://data.wprdc.org/dataset/city-of-pittsburgh-facilities
-- Arrests (crime rate) [Shruti]: https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974/resource/8ce92a4b-fa62-45c3-8cee-cc58fefede75
+- Arrests (crime rate) [Shruti]: https://data.wprdc.org/dataset/arrest-data
 - Building permits [Jiri]: https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974/resource/fab1fade-dec7-40eb-b4bf-737c0b3cecb2
 
 ## Overview:
