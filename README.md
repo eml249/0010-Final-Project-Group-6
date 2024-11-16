@@ -10,7 +10,7 @@
 - Jiri Palayekar [Mjp186@pitt.edu]
 
 ## Datasets:
-- Public assistance per neighborhood [Dominick]: https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974/resource/fa050f6f-66d9-40db-a415-abad22c51125
+- Public assistance per neighborhood [Dominick]: https://data.wprdc.org/dataset/neighborhoods-with-snap-data
 - Community facilities [Erik]: https://data.wprdc.org/dataset/city-of-pittsburgh-facilities
 - Arrests (crime rate) [Shruti]: https://data.wprdc.org/dataset/arrest-data
 - Food Gardens [Jiri]: Hey guys! https://data.wprdc.org/dataset/grow-pittsburgh-food-gardens that looks at the amount of food gardens in Pittsburgh and might be a better metric than housing permits!
