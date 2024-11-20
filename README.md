@@ -16,4 +16,4 @@
 - Food Gardens [Jiri]:https://data.wprdc.org/dataset/grow-pittsburgh-food-gardens
 
 ## Overview:
-- This project bases affordability, community engagement, safety/crime rate, and things to do in the neighborhood to consider Bloomfield as the best neighborhood in Pittsburgh.
+- This project bases affordability, community engagement, safety/crime rate, and things to do in the neighborhood to consider Bloomfield as the best neighborhood in Pittsburgh in terms of livability.
